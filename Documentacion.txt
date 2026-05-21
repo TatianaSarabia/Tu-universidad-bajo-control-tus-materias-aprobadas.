@@ -86,5 +86,5 @@
    - Opción de escanear horarios o documentos en PDF o imagen para que se carguen directamente.
 
 7. Más personalización
-   - Cambiar el tema de colores (modo claro, oscuro o paletas personalizadas).
+   - Cambiar el tema de colores como colores mas vivos o mas elegantes.
    - Plantillas de horario para periodos especiales (finales intensivos, preparación de exámenes, etc.).
